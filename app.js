@@ -11,7 +11,7 @@ if (entradaInicial.toLocaleUpperCase() === "S") {
   console.log("Essas são as categorias disponíveis");
   console.log(
     "Produtividade",
-    "/História brsileira",
+    "/História brasileira",
     "/Américas",
     "/Estilo de vida",
     "/Tecnologia"
